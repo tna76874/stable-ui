@@ -1,5 +1,7 @@
 # stable-ui 🔥
 
+[FORK]
+
 [Stable UI](https://aqualxx.github.io/stable-ui/) is a web user interface designed to generate, save, and view images using Stable Diffusion, with the goal being able to provide Stable Diffusion to anyone for 100% free.
 
 This is achieved using [Stable Horde](https://stablehorde.net/), a crowdsourced distributed cluster of Stable Diffusion workers, which makes this tool available for anyone to use regardless if they don't have the processing power to run Stable Diffusion themselves.
